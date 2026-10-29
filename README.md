@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117%2C55:0b2a5b%2C100:2563eb&text=Princesse%20ALAGNON&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Tech%20Princess%20%E2%80%A2%20D%C3%A9veloppeuse%20Web%20%26%20Mobile&descSize=20&descAlignY=57&animation=fadeIn" />
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0d1117%2C55:0b2a5b%2C100:2563eb&text=Princesse%20ALAGNON&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=Tech%20Princess%20%E2%80%A2%20D%C3%A9veloppeuse%20Web%20%26%20Mobile&descSize=20&descAlignY=64&animation=fadeIn" width="100%" alt="Princesse ALAGNON, Tech Princess, développeuse web et mobile" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117%2C55:0b2a5b%2C100:2563eb&text=Princesse%20ALAGNON&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Tech%20Princess%20%E2%80%A2%20D%C3%A9veloppeuse%20Web%20%26%20Mobile&descSize=20&descAlignY=57&animation=fadeIn&v=2" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0d1117%2C55:0b2a5b%2C100:2563eb&text=Princesse%20ALAGNON&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=Tech%20Princess%20%E2%80%A2%20D%C3%A9veloppeuse%20Web%20%26%20Mobile&descSize=20&descAlignY=64&animation=fadeIn&v=2" width="100%" alt="Princesse ALAGNON, Tech Princess, développeuse web et mobile" />
   </picture>
 </p>
 
