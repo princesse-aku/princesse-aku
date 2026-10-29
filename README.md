@@ -133,12 +133,12 @@ const techPrincess = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api?username=princesse-aku&show_icons=true&count_private=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=e6edf3&ring_color=60a5fa&border_color=30363d&border_radius=12" />
-    <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=princesse-aku&show_icons=true&count_private=true&custom_title=GitHub%20Stats&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=24292f&ring_color=2563eb&border_color=d0d7de&border_radius=12" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princesse-aku&theme=github_blue_dark" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princesse-aku&theme=default" alt="Statistiques GitHub" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/top-langs/?username=princesse-aku&layout=compact&langs_count=8&bg_color=0d1117&title_color=60a5fa&text_color=e6edf3&border_color=30363d&border_radius=12" />
-    <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=princesse-aku&layout=compact&langs_count=8&bg_color=ffffff&title_color=2563eb&text_color=24292f&border_color=d0d7de&border_radius=12" alt="Langages les plus utilisés" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princesse-aku&theme=github_blue_dark" />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princesse-aku&theme=default" alt="Langages les plus utilisés" />
   </picture>
 </p>
 
