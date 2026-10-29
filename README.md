@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117%2C55:0b2a5b%2C100:2563eb&text=Princesse%20ALAGNON&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Tech%20Princess%20%E2%80%A2%20D%C3%A9veloppeuse%20Web%20et%20Mobile&descSize=20&descAlignY=57&animation=fadeIn&v=2" />
     <img src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=0:0d1117%2C55:0b2a5b%2C100:2563eb&text=Princesse%20ALAGNON&fontColor=ffffff&fontSize=62&fontAlignY=40&desc=Tech%20Princess%20%E2%80%A2%20D%C3%A9veloppeuse%20Web%20et%20Mobile&descSize=20&descAlignY=64&animation=fadeIn&v=2" width="100%" alt="Princesse ALAGNON, Tech Princess, développeuse web et mobile" />
@@ -133,12 +133,12 @@ const techPrincess = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=princesse-aku&show_icons=true&count_private=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=e6edf3&ring_color=60a5fa&border_color=30363d&border_radius=12" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=princesse-aku&show_icons=true&count_private=true&custom_title=GitHub%20Stats&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=24292f&ring_color=2563eb&border_color=d0d7de&border_radius=12" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api?username=princesse-aku&show_icons=true&count_private=true&custom_title=GitHub%20Stats&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=e6edf3&ring_color=60a5fa&border_color=30363d&border_radius=12" />
+    <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=princesse-aku&show_icons=true&count_private=true&custom_title=GitHub%20Stats&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=24292f&ring_color=2563eb&border_color=d0d7de&border_radius=12" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=princesse-aku&layout=compact&langs_count=8&bg_color=0d1117&title_color=60a5fa&text_color=e6edf3&border_color=30363d&border_radius=12" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesse-aku&layout=compact&langs_count=8&bg_color=ffffff&title_color=2563eb&text_color=24292f&border_color=d0d7de&border_radius=12" alt="Langages les plus utilisés" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.hackclub.dev/api/top-langs/?username=princesse-aku&layout=compact&langs_count=8&bg_color=0d1117&title_color=60a5fa&text_color=e6edf3&border_color=30363d&border_radius=12" />
+    <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=princesse-aku&layout=compact&langs_count=8&bg_color=ffffff&title_color=2563eb&text_color=24292f&border_color=d0d7de&border_radius=12" alt="Langages les plus utilisés" />
   </picture>
 </p>
 
