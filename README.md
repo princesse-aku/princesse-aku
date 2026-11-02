@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/princesse-aku/princess_buster"><img src="https://img.shields.io/badge/Princess_Buster-0D1117?style=for-the-badge&logo=github&logoColor=60A5FA" alt="Princess Buster" /></a>
+  <a href="https://princess-buster.vercel.app/"><img src="https://img.shields.io/badge/Jouer_%C3%A0_Princess_Buster-0D1117?style=for-the-badge&logo=gamepad&logoColor=60A5FA" alt="Jouer à Princess Buster" /></a>
   <a href="mailto:alagnonpricesse@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" /></a>
   <a href="https://github.com/princesse-aku?tab=repositories"><img src="https://img.shields.io/badge/Mes_projets-0D1117?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="Mes projets" /></a>
 </p>
@@ -55,15 +55,16 @@ const techPrincess = {
     <td width="70%" valign="top">
       <h3><a href="https://github.com/princesse-aku/princess_buster">Princess Buster</a></h3>
       <p><b>Fais tomber toutes les technos !</b></p>
-      <p>Un jeu de tir en 2.5D que j'ai entièrement développé : tu fais exploser des piles de cubes de langages et frameworks (HTML, CSS, JavaScript, PHP, Laravel, Node.js, Docker, ChatGPT, Claude…) avec un nombre de balles limité.</p>
+      <p>Un jeu de tir en 2.5D que j'ai entièrement développé : tu tires sur des piles de cubes de langages et frameworks (HTML, CSS, JavaScript, PHP, Laravel, Docker, ChatGPT, Claude…) pour les faire tomber, avec un nombre de balles limité.</p>
       <ul>
-        <li>🎯 <b>200 niveaux</b> et <b>50 technologies</b> débloquées progressivement</li>
-        <li>🎨 <b>12 décors</b> qui changent à chaque niveau</li>
-        <li>🧱 Physique réaliste avec <b>Matter.js</b>, pièces cachées derrière d'autres pièces</li>
-        <li>📱 Plein écran adaptatif : téléphone, tablette et PC</li>
-        <li>🚀 JavaScript vanilla + SQLite, prêt pour <b>Tauri</b> (desktop et Android)</li>
+        <li>🎯 <b>250 niveaux</b> et <b>50 technologies</b> débloquées pas à pas</li>
+        <li>🎨 <b>12 décors</b> qui changent de niveau en niveau</li>
+        <li>💥 Effondrements physiques avec <b>Matter.js</b> : chaînes de chutes et rangées cachées derrière</li>
+        <li>🎁 Bonus <b>tir triple</b> et <b>super balle</b></li>
+        <li>🏆 <b>Connexion Google</b>, progression dans le cloud et <b>classement</b> (Firebase)</li>
+        <li>📱 <b>Installable sur mobile (PWA)</b> : téléphone, tablette et PC, en plein écran</li>
       </ul>
-      <p><a href="https://github.com/princesse-aku/princess_buster">Voir le projet ↗</a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princess_buster#d%C3%A9marrage-rapide">Jouer en local ↗</a></p>
+      <p><a href="https://princess-buster.vercel.app/"><b>▶ Jouer en ligne ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princess_buster">Voir le code ↗</a></p>
     </td>
   </tr>
 </table>
