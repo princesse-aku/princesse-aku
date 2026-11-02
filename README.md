@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://princess-buster.vercel.app/"><img src="https://img.shields.io/badge/Jouer_%C3%A0_Princess_Buster-0D1117?style=for-the-badge&logo=gamepad&logoColor=60A5FA" alt="Jouer à Princess Buster" /></a>
-  <a href="mailto:alagnonpricesse@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" /></a>
+  <a href="mailto:alaprincesse05@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=60A5FA" alt="Email" /></a>
   <a href="https://github.com/princesse-aku?tab=repositories"><img src="https://img.shields.io/badge/Mes_projets-0D1117?style=for-the-badge&logo=githubactions&logoColor=60A5FA" alt="Mes projets" /></a>
 </p>
 
@@ -39,7 +39,7 @@ const techPrincess = {
   stack:       ["Flutter", "TypeScript", "Python", "JavaScript"],
   projetPhare: "Princess Buster",
   motto:       "Faire tomber des technos, une balle à la fois",
-  contact:     "alagnonpricesse@gmail.com",
+  contact:     "alaprincesse05@gmail.com",
 };
 ```
 
@@ -154,8 +154,8 @@ const techPrincess = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=60A5FA&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble+%F0%9F%9A%80;alagnonpricesse%40gmail.com" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=2563EB&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble+%F0%9F%9A%80;alagnonpricesse%40gmail.com" alt="Construisons quelque chose de génial ensemble" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=60A5FA&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble+%F0%9F%9A%80;alaprincesse05%40gmail.com" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=2563EB&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble+%F0%9F%9A%80;alaprincesse05%40gmail.com" alt="Construisons quelque chose de génial ensemble" />
   </picture>
 </p>
 
