@@ -34,10 +34,10 @@ Je m'appelle **Princesse ALAGNON**, mais on me connaît sous le pseudo **Tech Pr
 ```ts
 const techPrincess = {
   nom:         "Princesse ALAGNON",
-  pseudo:      "Tech Princess 👑",
+  pseudo:      "Tech Princess",
   role:        "Développeuse Web & Mobile",
   stack:       ["Flutter", "TypeScript", "Python", "JavaScript"],
-  projetPhare: "Princess Buster 🎯",
+  projetPhare: "Princess Buster",
   motto:       "Faire tomber des technos, une balle à la fois",
   contact:     "alagnonpricesse@gmail.com",
 };
