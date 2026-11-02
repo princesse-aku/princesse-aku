@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Tech+Princess+%F0%9F%91%91;D%C3%A9veloppeuse+Web+%26+Mobile;Cr%C3%A9atrice+du+jeu+Princess+Buster+%F0%9F%8E%AF;Flutter+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+JavaScript" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Tech+Princess+%F0%9F%91%91;D%C3%A9veloppeuse+Web+%26+Mobile;Cr%C3%A9atrice+du+jeu+Princess+Buster+%F0%9F%8E%AF;Flutter+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+JavaScript" alt="Tech Princess, développeuse web et mobile, créatrice de Princess Buster" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=620&lines=Tech+Princess;D%C3%A9veloppeuse+Web+%26+Mobile;Cr%C3%A9atrice+du+jeu+Princess+Buster;Flutter+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+JavaScript" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Tech+Princess;D%C3%A9veloppeuse+Web+%26+Mobile;Cr%C3%A9atrice+du+jeu+Princess+Buster;Flutter+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+JavaScript" alt="Tech Princess, développeuse web et mobile, créatrice de Princess Buster" />
   </picture>
 </p>
 
@@ -154,8 +154,8 @@ const techPrincess = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=60A5FA&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble+%F0%9F%9A%80;alaprincesse05%40gmail.com" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=2563EB&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble+%F0%9F%9A%80;alaprincesse05%40gmail.com" alt="Construisons quelque chose de génial ensemble" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=60A5FA&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble;alaprincesse05%40gmail.com" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=2563EB&center=true&vCenter=true&width=520&lines=Construisons+quelque+chose+de+g%C3%A9nial+ensemble;alaprincesse05%40gmail.com" alt="Construisons quelque chose de génial ensemble" />
   </picture>
 </p>
 
