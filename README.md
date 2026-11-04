@@ -83,12 +83,12 @@ const techPrincess = {
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <a href="https://linkp-web.vercel.app/">
+      <a href="https://linkp.alaprincesse.com/">
         <img src="https://img.shields.io/badge/LinkP-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkP" />
       </a>
     </td>
     <td width="70%" valign="top">
-      <h3><a href="https://linkp-web.vercel.app/">LinkP</a></h3>
+      <h3><a href="https://linkp.alaprincesse.com/">LinkP</a></h3>
       <p><b>Rédige tes posts LinkedIn dans ta voix.</b></p>
       <p>Une plateforme qui aide à écrire des posts LinkedIn dans le style de chacun : idées de thèmes, analyse du style, rédaction assistée par IA et planification avec rappels Google Agenda.</p>
       <ul>
@@ -98,7 +98,7 @@ const techPrincess = {
         <li>🔐 Connexion email ou Google, clé IA <b>propre à chaque utilisateur</b>, chiffrée côté serveur</li>
         <li>⚙️ <b>Next.js</b> + Tailwind, <b>FastAPI</b>, Firebase, déployé avec Docker et Vercel</li>
       </ul>
-      <p><a href="https://linkp-web.vercel.app/"><b>▶ Découvrir LinkP ↗</b></a></p>
+      <p><a href="https://linkp.alaprincesse.com/"><b>▶ Découvrir LinkP ↗</b></a></p>
     </td>
   </tr>
 </table>
