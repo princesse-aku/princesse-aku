@@ -43,7 +43,7 @@ const techPrincess = {
 };
 ```
 
-## 🎯 Projet phare : Princess Buster
+## 🎯 Projets phares
 
 <table>
   <tr>
@@ -79,6 +79,29 @@ const techPrincess = {
   <img src="https://raw.githubusercontent.com/princesse-aku/princess_buster/main/docs/screenshots/03-partie-niveau-3.png" width="23%" alt="Niveau 3" />
   <img src="https://raw.githubusercontent.com/princesse-aku/princess_buster/main/docs/screenshots/06-bien-joue.png" width="23%" alt="Bien joué" />
 </p>
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <a href="https://linkp-web.vercel.app/">
+        <img src="https://img.shields.io/badge/LinkP-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkP" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
+      <h3><a href="https://linkp-web.vercel.app/">LinkP</a></h3>
+      <p><b>Rédige tes posts LinkedIn dans ta voix.</b></p>
+      <p>Une plateforme qui aide à écrire des posts LinkedIn dans le style de chacun : idées de thèmes, analyse du style, rédaction assistée par IA et planification avec rappels Google Agenda.</p>
+      <ul>
+        <li>✍️ <b>Analyse de ton style</b> pour des posts qui te ressemblent</li>
+        <li>💡 Idées de thèmes, rédaction et <b>génération d'images</b> pour tes posts</li>
+        <li>📅 <b>Planification</b> avec rappels dans Google Agenda</li>
+        <li>🔐 Connexion email ou Google, clé IA <b>propre à chaque utilisateur</b>, chiffrée côté serveur</li>
+        <li>⚙️ <b>Next.js</b> + Tailwind, <b>FastAPI</b>, Firebase, déployé avec Docker et Vercel</li>
+      </ul>
+      <p><a href="https://linkp-web.vercel.app/"><b>▶ Découvrir LinkP ↗</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Quelques projets
 
