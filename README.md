@@ -59,14 +59,14 @@ const techPrincess = {
       <p><b>Fais tomber toutes les technos !</b></p>
       <p>Un jeu de tir en 2.5D que j'ai entièrement développé : tu tires sur des piles de cubes de langages et frameworks (HTML, CSS, JavaScript, PHP, Laravel, Docker, ChatGPT, Claude…) pour les faire tomber, avec un nombre de balles limité.</p>
       <ul>
-        <li>🎯 <b>250 niveaux</b> et <b>50 technologies</b> débloquées pas à pas</li>
-        <li>🎨 <b>12 décors</b> qui changent de niveau en niveau</li>
-        <li>💥 Effondrements physiques avec <b>Matter.js</b> : chaînes de chutes et rangées cachées derrière</li>
-        <li>🎁 Bonus <b>tir triple</b> et <b>super balle</b></li>
-        <li>🏆 <b>Connexion Google</b>, progression dans le cloud et <b>classement</b> (Firebase)</li>
-        <li>📱 <b>Installable sur mobile (PWA)</b> : téléphone, tablette et PC, en plein écran</li>
+        <li><b>250 niveaux</b> et <b>50 technologies</b> débloquées pas à pas</li>
+        <li><b>12 décors</b> qui changent de niveau en niveau</li>
+        <li>Effondrements physiques avec <b>Matter.js</b> : chaînes de chutes et rangées cachées derrière</li>
+        <li>Bonus <b>tir triple</b> et <b>super balle</b></li>
+        <li><b>Connexion Google</b>, progression dans le cloud et <b>classement</b> (Firebase)</li>
+        <li><b>Installable sur mobile (PWA)</b> : téléphone, tablette et PC, en plein écran</li>
       </ul>
-      <p><a href="https://princess-buster.vercel.app/"><b>▶ Jouer en ligne ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princess_buster">Voir le code ↗</a></p>
+      <p><a href="https://princess-buster.vercel.app/"><b>Jouer en ligne ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princess_buster">Voir le code ↗</a></p>
     </td>
   </tr>
 </table>
@@ -100,7 +100,7 @@ const techPrincess = {
         <li>Idées de thèmes et rédaction assistée par IA</li>
         <li>Planification avec rappels Google Agenda</li>
       </ul>
-      <p><a href="https://linkp.alaprincesse.com/"><b>▶ Découvrir LinkP ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/linkp">Voir le code ↗</a></p>
+      <p><a href="https://linkp.alaprincesse.com/"><b>Découvrir LinkP ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/linkp">Voir le code ↗</a></p>
     </td>
   </tr>
 </table>
@@ -118,7 +118,7 @@ const techPrincess = {
       <h3><a href="https://alaprincesse.com/">Portfolio de Princesse ALAGNON</a></h3>
       <p><b>Développeuse web et mobile : de l'idée jusqu'à la mise en ligne.</b></p>
       <p>Mon site personnel : présentation, services et projets, avec des interfaces soignées, des APIs et des applications Flutter.</p>
-      <p><a href="https://alaprincesse.com/"><b>▶ Visiter le portfolio ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princesse_portfolio">Voir le code ↗</a></p>
+      <p><a href="https://alaprincesse.com/"><b>Visiter le portfolio ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princesse_portfolio">Voir le code ↗</a></p>
     </td>
   </tr>
 </table>
