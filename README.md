@@ -184,21 +184,12 @@ const techPrincess = {
 ## 🏆 Open source · Hacktoberfest
 
 <p align="center">
-  <a href="https://www.holopin.io/userbadge/cmg8fhtnf001xl704o2043u2l"><img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" width="130" alt="Hacktoberfest 2025 : niveau 0, inscrite" /></a>
-  <a href="https://www.holopin.io/userbadge/cmgl6i3op003ql504wdesdcz0"><img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" width="130" alt="Hacktoberfest 2025 : niveau 1" /></a>
-  <a href="https://www.holopin.io/userbadge/cmgl6i3n0003pl504vdc56bpf"><img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" width="130" alt="Hacktoberfest 2025 : niveau 2" /></a>
-  <a href="https://www.holopin.io/userbadge/cmgoufdsh003fi604rygdxe9s"><img src="https://assets.holopin.io/hf2025levels/lvl3-human.webp" width="130" alt="Hacktoberfest 2025 : niveau 3" /></a>
-  <a href="https://www.holopin.io/userbadge/cmgoufdqi003ei604qclwnqk0"><img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="130" alt="Hacktoberfest 2025 : contributrice niveau 4" /></a>
+  <a href="https://www.holopin.io/userbadge/cmgoufdqi003ei604qclwnqk0"><img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="150" alt="Hacktoberfest 2025 : contributrice niveau 4" /></a>
+  <a href="https://www.holopin.io/userbadge/cmgz1qbon0015jx04jjitjp9w"><img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150" alt="Hacktoberfest 2025 : Supercontributor" /></a>
+  <a href="https://www.holopin.io/userbadge/cmgz1vf3i000fk004cgo7pkyt"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hacktoberfest 2025 : arbre planté" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.holopin.io/userbadge/cmgz1qbon0015jx04jjitjp9w"><img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="130" alt="Hacktoberfest 2025 : Supercontributor" /></a>
-  <a href="https://www.holopin.io/userbadge/cmgz1vf3i000fk004cgo7pkyt"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="130" alt="Hacktoberfest 2025 : arbre planté" /></a>
-  <a href="https://www.holopin.io/userbadge/cmh0zagdd0041le0430kjka8v"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="130" alt="Holopin x Hacktoberfest : 1 Badge Club" /></a>
-  <a href="https://www.holopin.io/userbadge/cmhd7l7xd007tjr04yxxul2cg"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="130" alt="Holopin x Hacktoberfest : 5 Badge Club" /></a>
-</p>
-
-<p align="center"><sub><b>2025</b> · Contributrice niveau 4, Supercontributor, un arbre planté et les Badge Club · <a href="https://www.holopin.io/@princesseaku#badges">Tous mes badges ↗</a></sub></p>
+<p align="center"><sub><b>2025</b> · Contributrice niveau 4, Supercontributor et un arbre planté · <a href="https://www.holopin.io/@princesseaku#badges">Tous mes badges ↗</a></sub></p>
 
 ## 📊 Statistiques GitHub
 
