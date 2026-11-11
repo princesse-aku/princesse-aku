@@ -86,12 +86,12 @@ const techPrincess = {
 
 <table>
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <a href="https://linkp.alaprincesse.com/">
-        <img src="https://img.shields.io/badge/LinkP-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkP" />
+        <img src="https://raw.githubusercontent.com/princesse-aku/princesse_portfolio/main/public/images/projets/linkp.png" width="360" alt="Aperçu de LinkP" />
       </a>
     </td>
-    <td width="70%" valign="top">
+    <td width="60%" valign="top">
       <h3><a href="https://linkp.alaprincesse.com/">LinkP</a></h3>
       <p><b>Rédige tes posts LinkedIn dans ta voix.</b></p>
       <p>Une plateforme qui trouve des idées de posts LinkedIn, apprend ton style d'écriture, rédige tes publications et les planifie avec des rappels dans ton agenda.</p>
@@ -104,12 +104,12 @@ const techPrincess = {
 
 <table>
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <a href="https://alaprincesse.com/">
-        <img src="https://img.shields.io/badge/alaprincesse.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+        <img src="https://raw.githubusercontent.com/princesse-aku/princesse_portfolio/main/public/images/projets/portfolio.png" width="360" alt="Aperçu du portfolio" />
       </a>
     </td>
-    <td width="70%" valign="top">
+    <td width="60%" valign="top">
       <h3><a href="https://alaprincesse.com/">Portfolio de Princesse ALAGNON</a></h3>
       <p><b>Développeuse web et mobile : de l'idée jusqu'à la mise en ligne.</b></p>
       <p>Mon site personnel : présentation, services et projets, avec des interfaces soignées, des APIs et des applications Flutter. Réalisé avec <b>Next.js</b>, <b>TypeScript</b> et CSS Modules, déployé sur Vercel.</p>
