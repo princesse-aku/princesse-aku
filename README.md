@@ -118,12 +118,6 @@ const techPrincess = {
       <h3><a href="https://alaprincesse.com/">Portfolio de Princesse ALAGNON</a></h3>
       <p><b>Développeuse web et mobile : de l'idée jusqu'à la mise en ligne.</b></p>
       <p>Mon site personnel : présentation, services et projets, avec des interfaces soignées, des APIs et des applications Flutter.</p>
-      <ul>
-        <li>Présentation, services et projets</li>
-        <li>Contenu modifiable depuis de simples fichiers de données</li>
-        <li>Next.js, TypeScript et CSS Modules</li>
-        <li>Déployé sur Vercel</li>
-      </ul>
       <p><a href="https://alaprincesse.com/"><b>▶ Visiter le portfolio ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princesse_portfolio">Voir le code ↗</a></p>
     </td>
   </tr>
