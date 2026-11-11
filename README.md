@@ -86,16 +86,22 @@ const techPrincess = {
 
 <table>
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td width="55%" align="center" valign="middle">
       <a href="https://linkp.alaprincesse.com/">
-        <img src="https://raw.githubusercontent.com/princesse-aku/princesse_portfolio/main/public/images/projets/linkp.png" width="360" alt="Aperçu de LinkP" />
+        <img src="https://raw.githubusercontent.com/princesse-aku/princesse_portfolio/main/public/images/projets/linkp.png" width="460" alt="Aperçu de LinkP" />
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="45%" valign="top">
       <h3><a href="https://linkp.alaprincesse.com/">LinkP</a></h3>
       <p><b>Rédige tes posts LinkedIn dans ta voix.</b></p>
       <p>Une plateforme qui trouve des idées de posts LinkedIn, apprend ton style d'écriture, rédige tes publications et les planifie avec des rappels dans ton agenda.</p>
-      <p><a href="https://linkp.alaprincesse.com/"><b>▶ Découvrir LinkP ↗</b></a></p>
+      <ul>
+        <li>Analyse de ton style d'écriture</li>
+        <li>Idées de thèmes et rédaction assistée par IA</li>
+        <li>Planification avec rappels Google Agenda</li>
+        <li>Next.js, FastAPI, Firebase, Docker</li>
+      </ul>
+      <p><a href="https://linkp.alaprincesse.com/"><b>▶ Découvrir LinkP ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/linkp">Voir le code ↗</a></p>
     </td>
   </tr>
 </table>
@@ -104,16 +110,22 @@ const techPrincess = {
 
 <table>
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td width="55%" align="center" valign="middle">
       <a href="https://alaprincesse.com/">
-        <img src="https://raw.githubusercontent.com/princesse-aku/princesse_portfolio/main/public/images/projets/portfolio.png" width="360" alt="Aperçu du portfolio" />
+        <img src="https://raw.githubusercontent.com/princesse-aku/princesse_portfolio/main/public/images/projets/portfolio.png" width="460" alt="Aperçu du portfolio" />
       </a>
     </td>
-    <td width="60%" valign="top">
+    <td width="45%" valign="top">
       <h3><a href="https://alaprincesse.com/">Portfolio de Princesse ALAGNON</a></h3>
       <p><b>Développeuse web et mobile : de l'idée jusqu'à la mise en ligne.</b></p>
-      <p>Mon site personnel : présentation, services et projets, avec des interfaces soignées, des APIs et des applications Flutter. Réalisé avec <b>Next.js</b>, <b>TypeScript</b> et CSS Modules, déployé sur Vercel.</p>
-      <p><a href="https://alaprincesse.com/"><b>▶ Visiter le portfolio ↗</b></a></p>
+      <p>Mon site personnel : présentation, services et projets, avec des interfaces soignées, des APIs et des applications Flutter.</p>
+      <ul>
+        <li>Présentation, services et projets</li>
+        <li>Contenu modifiable depuis de simples fichiers de données</li>
+        <li>Next.js, TypeScript et CSS Modules</li>
+        <li>Déployé sur Vercel</li>
+      </ul>
+      <p><a href="https://alaprincesse.com/"><b>▶ Visiter le portfolio ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/princesse_portfolio">Voir le code ↗</a></p>
     </td>
   </tr>
 </table>
