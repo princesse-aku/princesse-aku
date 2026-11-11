@@ -99,7 +99,6 @@ const techPrincess = {
         <li>Analyse de ton style d'écriture</li>
         <li>Idées de thèmes et rédaction assistée par IA</li>
         <li>Planification avec rappels Google Agenda</li>
-        <li>Next.js, FastAPI, Firebase, Docker</li>
       </ul>
       <p><a href="https://linkp.alaprincesse.com/"><b>▶ Découvrir LinkP ↗</b></a> &nbsp;·&nbsp; <a href="https://github.com/princesse-aku/linkp">Voir le code ↗</a></p>
     </td>
