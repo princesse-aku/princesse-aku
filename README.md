@@ -175,8 +175,6 @@ const techPrincess = {
 
 ## 🤖 Workflow natif IA
 
-> Peu importe la stack, je la livre, parce que je construis avec l'IA.
-
 <p>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
