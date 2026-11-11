@@ -43,7 +43,9 @@ const techPrincess = {
 };
 ```
 
-## 🎯 Projet phare : Princess Buster
+## 🎯 Projets phares
+
+### Princess Buster
 
 <table>
   <tr>
@@ -79,6 +81,42 @@ const techPrincess = {
   <img src="https://raw.githubusercontent.com/princesse-aku/princess_buster/main/docs/screenshots/03-partie-niveau-3.png" width="23%" alt="Niveau 3" />
   <img src="https://raw.githubusercontent.com/princesse-aku/princess_buster/main/docs/screenshots/06-bien-joue.png" width="23%" alt="Bien joué" />
 </p>
+
+### LinkP
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <a href="https://linkp.alaprincesse.com/">
+        <img src="https://img.shields.io/badge/LinkP-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkP" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
+      <h3><a href="https://linkp.alaprincesse.com/">LinkP</a></h3>
+      <p><b>Rédige tes posts LinkedIn dans ta voix.</b></p>
+      <p>Une plateforme qui trouve des idées de posts LinkedIn, apprend ton style d'écriture, rédige tes publications et les planifie avec des rappels dans ton agenda.</p>
+      <p><a href="https://linkp.alaprincesse.com/"><b>▶ Découvrir LinkP ↗</b></a></p>
+    </td>
+  </tr>
+</table>
+
+### Mon portfolio
+
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <a href="https://alaprincesse.com/">
+        <img src="https://img.shields.io/badge/alaprincesse.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      </a>
+    </td>
+    <td width="70%" valign="top">
+      <h3><a href="https://alaprincesse.com/">Portfolio de Princesse ALAGNON</a></h3>
+      <p><b>Développeuse web et mobile : de l'idée jusqu'à la mise en ligne.</b></p>
+      <p>Mon site personnel : présentation, services et projets, avec des interfaces soignées, des APIs et des applications Flutter. Réalisé avec <b>Next.js</b>, <b>TypeScript</b> et CSS Modules, déployé sur Vercel.</p>
+      <p><a href="https://alaprincesse.com/"><b>▶ Visiter le portfolio ↗</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Quelques projets
 
