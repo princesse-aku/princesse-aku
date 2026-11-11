@@ -173,6 +173,26 @@ const techPrincess = {
   </tr>
 </table>
 
+## 🤖 Workflow natif IA
+
+> Peu importe la stack, je la livre, parce que je construis avec l'IA.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0ZGRkZGRiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTYgNkg4djEyaDhWNnptNCAxNkg0VjJoMTZ2MjB6Ii8%2BPC9zdmc%2B" alt="OpenCode" />
+</p>
+
+## 🏆 Open source · Hacktoberfest
+
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgoufdqi003ei604qclwnqk0"><img src="https://assets.holopin.io/hf2025levels/lvl4-human.webp" width="150" alt="Hacktoberfest 2025 : contributrice niveau 4" /></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgz1qbon0015jx04jjitjp9w"><img src="https://assets.holopin.io/hf2025levels/lvl5-human.webp" width="150" alt="Hacktoberfest 2025 : Supercontributor" /></a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgz1vf3i000fk004cgo7pkyt"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hacktoberfest 2025 : arbre planté" /></a>
+</p>
+
+<p align="center"><sub><b>2025</b> · Contributrice niveau 4, Supercontributor et un arbre planté · <a href="https://www.holopin.io/@princesseaku#badges">Tous mes badges ↗</a></sub></p>
+
 ## 📊 Statistiques GitHub
 
 <p align="center">
