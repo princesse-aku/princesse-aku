@@ -189,7 +189,7 @@ const techPrincess = {
   <a href="https://www.holopin.io/userbadge/cmgz1vf3i000fk004cgo7pkyt"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="150" alt="Hacktoberfest 2025 : arbre planté" /></a>
 </p>
 
-<p align="center"><sub><b>2025</b> · Contributrice niveau 4, Supercontributor et un arbre planté · <a href="https://www.holopin.io/@princesseaku#badges">Tous mes badges ↗</a></sub></p>
+<p align="center"><sub><b>2025</b> · Contributrice niveau 4, Supercontributor et un arbre planté</sub></p>
 
 ## 📊 Statistiques GitHub
 
